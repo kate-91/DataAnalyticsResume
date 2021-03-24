@@ -28,8 +28,6 @@ Skills {#skills}
 
 - Experienced in running multivariate regression. 
 
-- List your **key skills**, linked to the job description.
-
 - Performing **data analysis** in behavioral sciences with Python and R
 
 - Collecting data with EEG and eye tracker
